@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>24 Electrical</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <img src="logo.png" class="logo">
+    <h1>24 Electrical</h1>
+    <p class="slogan">Wire You Waiting?</p>
+
+    <nav>
+        <a href="#">Home</a>
+        <a href="gallery.html">Gallery</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+    </nav>
+</header>
+
+<section class="hero">
+    <div class="hero-text">
+        <h2>Powering Homes, Empowering Lives ⚡</h2>
+        <p>We provide safe, reliable & affordable electrical solutions across Harare.</p>
+
+        <a href="https://wa.me/263786100586" class="btn">Chat on WhatsApp</a>
+    </div>
+
+    <div class="hero-image">
+        <img src="me.png">
+    </div>
+</section>
+
+<section class="services">
+    <h2>Our Services</h2>
+
+    <div class="card">
+        <h3>House Wiring</h3>
+        <p>Complete tubing & wiring for new builds and renovations.</p>
+    </div>
+
+    <div class="card">
+        <h3>Solar Installation</h3>
+        <p>Affordable and sustainable energy solutions.</p>
+    </div>
+
+    <div class="card">
+        <h3>Repairs & Maintenance</h3>
+        <p>Fast fault finding, upgrades and troubleshooting.</p>
+    </div>
+
+    <div class="card">
+        <h3>Backup Power</h3>
+        <p>Inverter and generator integration for uninterrupted power.</p>
+    </div>
+
+</section>
+
+<section id="about" class="about">
+    <h2>About Us</h2>
+
+    <p><strong>24 Electricals</strong> is a trusted electrical services provider specializing in safe, reliable, and modern energy solutions. We pride ourselves on professionalism, authenticity, and delivering high-quality work that meets both residential and commercial needs.</p>
+
+    <h3>⚡ What We Offer</h3>
+    <p>We provide complete house wiring, solar installations, electrical maintenance, and backup power solutions. All our work is carried out with certified safety standards to ensure long-lasting and secure installations.</p>
+
+    <h3>🎯 Why Choose Us</h3>
+    <p>
+    • Professional and trustworthy service<br>
+    • Energy-efficient solutions that save costs<br>
+    • Transparent pricing and clear communication<br>
+    • Reliable after-service support<br>
+    • Deep understanding of local energy challenges in Zimbabwe
+    </p>
+
+    <h3>📌 Who We Serve</h3>
+    <p>
+    • Homeowners building or renovating<br>
+    • Businesses needing solar or backup power<br>
+    • Schools, clinics, and institutions<br>
+    • Property developers and contractors
+    </p>
+
+</section>
+
+<section class="about">
+    <h2>Our Promise</h2>
+    <p><strong>Your Energy, Our Expertise.</strong></p>
+    <p>We are committed to delivering safe wiring and a bright future for every client we serve.</p>
+</section>
+
+<section id="contact" class="contact">
+    <h2>Contact Us</h2>
+    <p>📞 +263 786 100 586</p>
+    <p>💬 WhatsApp Available</p>
+    <p>📧 24electricalzw@icloud.co.zw</p>
+    <p>📍 Harare, Zimbabwe</p>
+</section>
+
+<a href="https://wa.me/263786100586" class="whatsapp-float">💬</a>
+
+<footer>
+    <p>© 2026 24 Electrical | Powering Homes, Empowering Lives</p>
+</footer>
+
+</body>
+</html>
