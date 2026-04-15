@@ -1,0 +1,117 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0b1f3a;
+    color: white;
+}
+
+/* HEADER */
+header {
+    text-align: center;
+    background: #08162b;
+    padding: 20px;
+}
+
+.logo {
+    width: 80px;
+    margin-bottom: 10px;
+}
+
+header h1 {
+    color: orange;
+    margin: 5px;
+}
+
+.slogan {
+    font-style: italic;
+}
+
+/* NAV */
+nav a {
+    margin: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: orange;
+}
+
+/* HERO */
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 40px;
+    background: #102b50;
+    flex-wrap: wrap;
+}
+
+.hero-text {
+    max-width: 400px;
+}
+
+.hero-image img {
+    width: 250px;
+    border-radius: 10px;
+}
+
+/* BUTTON */
+.btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 20px;
+    background: orange;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+/* SERVICES */
+.services {
+    text-align: center;
+    padding: 40px;
+}
+
+.services h2 {
+    color: orange;
+}
+
+.card {
+    background: #08162b;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* ABOUT */
+.about {
+    background: #102b50;
+    padding: 40px;
+    text-align: center;
+}
+
+/* CONTACT */
+.contact {
+    padding: 40px;
+    text-align: center;
+}
+
+/* WHATSAPP FLOAT */
+.whatsapp-float {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: green;
+    padding: 15px;
+    border-radius: 50%;
+    text-decoration: none;
+}
+
+/* MOBILE */
+@media (max-width: 600px) {
+    .hero {
+        flex-direction: column;
+    }
+}

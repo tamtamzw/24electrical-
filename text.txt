@@ -1,0 +1,6 @@
+index.html
+style.css
+gallery.html
+logo.png
+me.png
+work.jpg
